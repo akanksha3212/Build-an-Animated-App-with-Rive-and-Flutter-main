@@ -1,0 +1,1 @@
+ /Users/akankshajain/StudioProjects/Build-an-Animated-App-with-Rive-and-Flutter-main/.dart_tool/flutter_build/05a039e7e64dc7d5094e966a12515808/native_assets.yaml: 
